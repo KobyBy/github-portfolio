@@ -8,7 +8,7 @@ Visually, I chose to use the emoji of a red and blue circle, but early on, they 
 
 ![image](https://github.com/KobyBy/github-portfolio/assets/112783034/d4fae4f5-6152-4f96-bb99-54059911df01)
 
-Here is what standard play would look like, each player taking turns selecting a column in which they can play.
+Here is what the very beginning of standard play would look like, each player taking turns selecting a column in which they can play.
 
 ![image](https://github.com/KobyBy/github-portfolio/assets/112783034/d78537d1-4961-4515-b639-400fd2f35482)
 
