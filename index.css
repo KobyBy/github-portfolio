@@ -411,13 +411,14 @@ body:not(.user-is-tabbing) a:focus {
     background-position: center;
     background-attachment: fixed;
     font-size: var(--font-size-normal);
+    font-style: var(--black);
 }
 
 .header__text {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    font-style: var(--black);
+
 }
 
 .header__text p {
@@ -425,7 +426,6 @@ body:not(.user-is-tabbing) a:focus {
     max-width: var(--container-medium-width);
     font-family: 'Jost', sans-serif;
     font-size: var(--font-size-medium);
-    font-style: var(--black);
 }
 
 @media(max-width: 500px) {
