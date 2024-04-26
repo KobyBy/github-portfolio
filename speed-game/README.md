@@ -1,4 +1,4 @@
-#speed-game
+# speed-game
 
 Along with two groupmates, we designed an application of California Speed. In this game, 8 piles are placed and each player has a hand which they don't look at. The goal is to move the cards as fast as possible from your own hand into the piles whose top card is visible in more than one place. 
 
