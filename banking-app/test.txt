@@ -1,0 +1,13 @@
+More 
+
+
+-Backend routes for transfering: Ulises
+-Home page to display user accounts: Logan
+-Page to see transaction history: Brandon
+-Page for transfering, depositing, and withdrawing: Koby
+
+-Signup page with user number, password, confirmed password.
+-Login page with user number and password.
+
+username: Test
+password: ab12
